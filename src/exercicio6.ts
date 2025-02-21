@@ -13,8 +13,8 @@ type EstudanteTrabalhador = Estudante & Trabalhador;
 const pessoa: EstudanteTrabalhador = {
     nome: "Gustavo",
     curso: "ADS",
-    empresa: "TechCorp",
-    cargo: "Desenvolvedor"
+    empresa: "Adalink",
+    cargo: "Prompter"
 };
 
 console.log(pessoa);
